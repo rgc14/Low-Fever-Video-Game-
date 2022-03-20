@@ -1,5 +1,5 @@
 # Low-Fever-Video-Game-
 Video Game. 
-Click F1/F2 for instructions.
+Click F1 for instructions, click the X button on the top right to close the help window.
 Made with the Gamemaker7 game engine.
-The help screen does not work on some keyboards due to an issue in the Gamemaker7 game engine.
+Extract the file or it might not work as intended.
